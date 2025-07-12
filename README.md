@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Passionate Coder | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/vCnY99CM/mypic-1.jpg" alt="M A Muhit Joy Banner" width="100%"/>
+  <img src="https://i.ibb.co/vCnY99CM/mypic-1.jpg" alt="M A Muhit Joy Banner" width="50%"/>
 </p>
 
 ---

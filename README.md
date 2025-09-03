@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M A Muhit Joy</h1>
+<h1 align="center justify-center">Hi 👋, I'm M A Muhit Joy</h1>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&width=600&lines=MERN+Stack+Developer;Crafting+Scalable+Web+Apps;Problem+Solver+%26+Lifelong+Learner" alt="Typing SVG" />

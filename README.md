@@ -21,31 +21,31 @@ Always learning, improving, and contributing to the developer community.
 
 ## 🚀 Tech Stack  
 
-### 💻 Frontend  
-- HTML5, CSS3, JavaScript (ES6+)  
-- React.js, React Router  
-- Firebase, Tailwind CSS  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-### 🛠 Backend  
-- Node.js, Express.js  
-- MongoDB, Mongoose  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest-api&logoColor=white" />
 
-### 🔧 Tools & Platforms  
-- Git & GitHub, GitHub Actions  
-- Postman & REST APIs  
-- VS Code, Chrome DevTools  
-- Deployment: Netlify, Vercel, Firebase Hosting  
+  <!-- Other Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 Badges & Stats  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-brightgreen?style=for-the-badge&logo=mern" />
-  <img src="https://img.shields.io/badge/React-17.0.2-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-18.0.0-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-6.0.0-green?style=for-the-badge&logo=mongodb" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhitjoy&show_icons=true&theme=radical" alt="muhitjoy's GitHub stats" />

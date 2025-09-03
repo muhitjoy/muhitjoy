@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/fFzYFmy/developer-banner.png" alt="M A Muhit Joy - MERN Stack Developer" />
+  <img src="https://i.ibb.co.com/gM2X5Cjs/Black-and-White-Gradient-Personal-Linked-In-Banner.png" alt="M A Muhit Joy - MERN Stack Developer" />
 </p>
 
 <h1 align="center">Hi 👋, I'm M A Muhit Joy</h1>

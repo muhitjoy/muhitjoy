@@ -7,7 +7,11 @@
 <h3 align="center">Open-Source Enthusiast | Tech Explorer | Always Learning</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/fzHkmXBc/MERN-Image.webp" alt="M A Muhit Joy - MERN Stack Developer](https://i.ibb.co.com/v6pFcFXv/Chat-GPT-Image-Jan-10-2026-10-59-36-PM.png)" width="80%" />
+<img 
+  src="https://i.ibb.co.com/Ljk9FBQ/Chat-GPT-Image-Jan-13-2026-09-12-32-PM.png" 
+  alt="M A Muhit Joy - MERN Stack Developer" 
+  width="80%" 
+/>
 </p>
 
 ---

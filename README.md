@@ -21,29 +21,29 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, cr
 ## 🛠️ Tech Stack & Expertise
 
 ### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://www.w3schools.com/html/)
+![CSS3](https://www.w3schools.com/css/)
+![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![React](https://react.dev/learn)
+![Tailwind CSS](https://tailwindcss.com/)
 
 ### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
+![Node.js](https://nodejs.org/en)
+![Express.js](https://expressjs.com/)
+![MongoDB](https://www.mongodb.com/)
+![REST API](https://www.geeksforgeeks.org/node-js/rest-api-introduction/)
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://git-scm.com/)
+![GitHub](https://github.com/)
+![VS Code](https://code.visualstudio.com/)
+![Postman](https://www.postman.com/)
+![Firebase](https://firebase.google.com/k)
 
 ### **Currently Exploring**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://www.typescriptlang.org/)
+![Next.js](https://nextjs.org/)
+![Redux](https://redux.js.org/)
 
 ---
 
@@ -79,8 +79,8 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, cr
 
 ### 🔥 **Check out my portfolio for detailed project showcases!**
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhitjoy.vercel.app)
-[![Projects](https://img.shields.io/badge/📂_VIEW_ALL_PROJECTS-00FFAA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/muhitjoy?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhitjoy-portfolio.vercel.app/)
+[![Projects](https://img.shields.io/badge/📂_VIEW_ALL_PROJECTS-00FFAA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/muhitjoy)
 
 ---
 

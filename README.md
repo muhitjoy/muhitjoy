@@ -21,29 +21,71 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, cr
 ## 🛠️ Tech Stack & Expertise
 
 ### **Frontend Development**
-![HTML5](https://www.w3schools.com/html/)
-![CSS3](https://www.w3schools.com/css/)
-![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![React](https://react.dev/learn)
-![Tailwind CSS](https://tailwindcss.com/)
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+</p>
 
 ### **Backend Development**
-![Node.js](https://nodejs.org/en)
-![Express.js](https://expressjs.com/)
-![MongoDB](https://www.mongodb.com/)
-![REST API](https://www.geeksforgeeks.org/node-js/rest-api-introduction/)
+<p>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  </a>
+  <a href="https://mongodb.com" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://restfulapi.net" target="_blank">
+    <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  </a>
+</p>
 
 ### **Tools & Platforms**
-![Git](https://git-scm.com/)
-![GitHub](https://github.com/)
-![VS Code](https://code.visualstudio.com/)
-![Postman](https://www.postman.com/)
-![Firebase](https://firebase.google.com/k)
+<p>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  </a>
+</p>
 
 ### **Currently Exploring**
-![TypeScript](https://www.typescriptlang.org/)
-![Next.js](https://nextjs.org/)
-![Redux](https://redux.js.org/)
+<p>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  </a>
+</p>
 
 ---
 
@@ -86,10 +128,10 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, cr
 
 ## 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&link=https://muhitjoy.vercel.app)](https://muhitjoy-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:muhitjoy2004@gmail.com)](mailto:muhitjoy2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/m-a-muhit-joy)](https://www.linkedin.com/in/m-a-muhit-joy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/muhitjoy)](https://github.com/muhitjoy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhitjoy-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhitjoy2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-a-muhit-joy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhitjoy)
 
 ---
 

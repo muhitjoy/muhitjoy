@@ -6,9 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&height=80&lines=Building+Scalable+Web+Solutions;Transforming+Ideas+Into+Reality;Passionate+Problem+Solver;Continuous+Learner+%26+Innovator)](https://git.io/typing-svg)
 
-<img src="https://i.ibb.co.com/Ljk9FBQ/Chat-GPT-Image-Jan-13-2026-09-12-32-PM.png" 
-     alt="M A Muhit Joy - MERN Stack Developer" 
-     style="width: 100%; height: 70vh; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,255,170,0.2); object-fit: cover;" />
+<div style="position: relative; width: 100%; padding-top: 40%; border-radius: 20px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,255,170,0.2); margin: 30px 0;">
+  <img src="https://i.ibb.co.com/Ljk9FBQ/Chat-GPT-Image-Jan-13-2026-09-12-32-PM.png" 
+       alt="M A Muhit Joy - MERN Stack Developer" 
+       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;" />
+</div>
 
 ---
 
